@@ -40,6 +40,7 @@ A data dictionary was also provided that described the meaning of the variables 
 ### Data Definitions
 The definitions are also listed down below:
 
+```
 CIRCLE_ID : Telecom circle area to which the customer belongs to
 LOC : Local calls - within same telecom circle
 STD : STD calls - outside the calling circle
@@ -76,7 +77,7 @@ SACHET : Service schemes with validity smaller than a month
 *.8 : KPI for the month of August
 FB_USER : Service scheme to avail services of Facebook and similar social networking sites
 VBC : Volume based cost - when no specific scheme is not purchased and paid as per usage
-
+```
 
 ## Technologies Used
 - pandas - version 1.4.4
